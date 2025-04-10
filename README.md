@@ -10,8 +10,8 @@ Este proyecto es una pequeña aplicación gráfica en Python que permite al usua
 - Verifica si un número es par o impar.
 - Lleva el historial de los números ingresados.
 - Muestra estadísticas:
-  - Total de números
-  - Cantidad de pares e impares
+- Total de números
+- Cantidad de pares e impares
 - Guarda el historial en un archivo CSV.
 - Reinicia el historial con un botón.
 - Interfaz gráfica intuitiva creada con `tkinter`.
